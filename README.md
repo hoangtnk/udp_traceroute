@@ -10,7 +10,7 @@ pip install scapy
 # Usage
 Assign execute permission to the script:
 ```
-chmod a+x udp_traceroute.py
+# chmod a+x udp_traceroute.py
 ```
 
 Show the available options:
